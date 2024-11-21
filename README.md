@@ -2,8 +2,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatomessiasmachado/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@renatommachado)
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoMessiasMachado)](https://github.com/anuraghazra/github-readme-stats)
-<br />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMessiasMachado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoMessiasMachado&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMessiasMachado&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ##
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
