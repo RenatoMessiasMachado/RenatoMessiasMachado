@@ -6,6 +6,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoMessiasMachado&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMessiasMachado&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ##
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,flask,js,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,js,react&theme=dark)](https://skillicons.dev)
 
 
